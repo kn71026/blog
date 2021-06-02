@@ -105,5 +105,5 @@ theme: icarus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/kn71026/kn71026.github.io.git
+  repo: https://github.com/kn71026/blog.git
   branch: gh-pages
